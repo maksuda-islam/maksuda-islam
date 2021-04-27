@@ -1,6 +1,6 @@
 * Hello, Welcome to my github profile!
 * I am Maksuda Islam Lima
-* I am a final year undergrad Software Engineering student and currently focused on JS, Django and NLP
+* I am a final year undergrad Software Engineering student and currently focusing on JS, Django and NLP
 * How to reach me -> maksudaislam@iut-dhaka.edu
 
 
