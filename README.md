@@ -1,4 +1,8 @@
-### Hi there 👋
+* Hello, Welcome to my github profile!
+* I am Maksuda Islam Lima
+* I am a final year undergrad Software Engineering student
+* How to reach me -> maksudaislam@iut-dhaka.edu
+
 
 <!--
 **kima063/kima063** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
