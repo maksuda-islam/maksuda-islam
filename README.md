@@ -1,7 +1,7 @@
 * Hello, Welcome to my github profile!
 * I am Maksuda Islam Lima
 * I am a final year undergrad Software Engineering student and currently focusing on Web Development and NLP
-* How to reach me -> maksudaislam@iut-dhaka.edu
+* How to reach me -> https://www.linkedin.com/in/maksuda-islam-lima-063/
 
 
 <!--
