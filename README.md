@@ -1,8 +1,8 @@
 * Hello, Welcome to my github profile!
 * I am Maksuda Islam Lima
 * I am a final year undergrad Software Engineering student and currently focused on Web Development and NLP
-* How to reach me -> https://www.linkedin.com/in/maksuda-islam-lima-063/
-
+* How to reach me -> <a href="https://www.linkedin.com/in/maksuda-islam-lima-063/">Maksuda Islam Lima</a>
+* I have this littol interest on art, can check out <a href="https://www.behance.net/maksudalima">this portfolio</a> too! 
 
 <!--
 **kima063/kima063** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
