@@ -1,8 +1,8 @@
-* Hello, Welcome to my github profile!
+* Hello, Welcome to my GitHub profile!
 * I am Maksuda Islam Lima
-* I am a fresh graduate from Islamic University of Technology in Software Engineering
+* A fresh graduate from the Islamic University of Technology in Software Engineering.
 * How to reach me -> <a href="https://www.linkedin.com/in/maksuda-islam-lima-063/">Maksuda Islam Lima</a>
-* I have this little interest in art, can check out <a href="https://www.behance.net/maksudalima">this portfolio</a> too! 
+* I have this little interest in art, so you can check out <a href="https://www.behance.net/maksudalima">this portfolio</a> too! 
 
 <!--
 **kima063/kima063** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
