@@ -1,6 +1,6 @@
 * Hello, Welcome to my GitHub profile!
 * I am Maksuda Islam Lima
-* A fresh graduate from the Islamic University of Technology in Software Engineering.
+* A graduate of the Islamic University of Technology in Software Engineering.
 * How to reach me -> <a href="https://www.linkedin.com/in/maksuda-islam-lima-063/">Maksuda Islam Lima</a>
 * I have this little interest in art, so you can check out <a href="https://www.behance.net/maksudalima">this portfolio</a> too! 
 
